@@ -1,1 +1,1 @@
-# proyecto2_modulo2
+# Creación de BBDD con My SQL
